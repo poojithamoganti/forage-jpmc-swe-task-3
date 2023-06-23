@@ -21,9 +21,8 @@
 #from itertools import izip
 from random    import normalvariate, random
 from datetime  import timedelta, datetime
-
-import csv
 import dateutil.parser
+import csv
 import os.path
 
 import operator
